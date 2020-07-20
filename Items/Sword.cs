@@ -13,7 +13,7 @@ namespace SuperTerraMod.Items
 
 		public override void SetDefaults() 
 		{
-			item.damage = 50;
+			item.damage = 70;
 			item.melee = true;
 			item.width = 40;
 			item.height = 40;
