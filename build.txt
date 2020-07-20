@@ -1,0 +1,3 @@
+displayName = Super Terra Mod
+author = Team Mc
+version = 0.1
